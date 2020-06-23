@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetS?_1 Pin=S?-2
+Removed Pin From Net: NetName=NetD?_2 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Added Component: Designator=J?(S8421-45R_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/148a/0900766b8148a2a4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "HARWIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S8421-45R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "855-S8421-45R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=855-S8421-45R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9094486"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/9094486"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD?_2 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=V_Switch Pin=S?-1
+Added Pin To Net: NetName=NetS?_1 Pin=S?-2
+Added Pin To Net: NetName=V_Select Pin=S?-2
+Added Pin To Net: NetName=V_Barrel Pin=S?-3
+Added Member To Class: ClassName=Sheet1 Member=Component C? Passive-Capacitor (Generic)
+Added Member To Class: ClassName=Sheet1 Member=Component J? S8421-45R
+Added Member To Class: ClassName=Sheet1 Member=Component S? MHSS1105
+Added Member To Class: ClassName=Sheet2 Member=Component Y? PTS810_SJK_250_SMTR_LFS
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

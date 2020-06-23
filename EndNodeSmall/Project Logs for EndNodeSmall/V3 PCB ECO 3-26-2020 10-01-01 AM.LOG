@@ -1,0 +1,61 @@
+Added Component: Designator=C11(CAPAE660X610N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70258257"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-eee-fk1e330p/70258257/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-FK1E330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-FK1E330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-EEE-FK1E330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPAE660X610N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70258257"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-eee-fk1e330p/70258257/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-FK1E330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-FK1E330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-EEE-FK1E330P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOT230P700X180-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lm3940.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM3940IMP-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM3940IMP3.3NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LM3940IMP3.3NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5361546P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/5361546P"; VariantName = "[No Variations]"
+Added Component: Designator=J4(PJ-102AH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cui.com/product/resource/pj-102a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PJ-102A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-PJ-102A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=490-PJ-102A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=V_Barrel Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetC11_1 Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC2-2
+Added Pin To Net: NetName=V_Barrel Pin=IC2-3
+Added Pin To Net: NetName=GND Pin=IC2-4
+Added Pin To Net: NetName=NetC11_1 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Member To Class: ClassName=Sheet1 Member=Component C11 EEE-FK1E330P
+Added Member To Class: ClassName=Sheet1 Member=Component C12 EEE-FK1E330P
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 LM3940IMP-3.3_NOPB
+Added Member To Class: ClassName=Sheet1 Member=Component J4 PJ-102A
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

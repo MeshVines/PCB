@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=Net*_3 Pin=*-3
+Removed Pin From Net: NetName=UART_TX Pin=*-5
+Removed Pin From Net: NetName=UART_RX Pin=*-7
+Removed Pin From Net: NetName=V_Select Pin=J5-2
+Removed Pin From Net: NetName=UART_TX Pin=J5-3
+Removed Pin From Net: NetName=UART_RX Pin=J5-4
+Removed Pin From Net: NetName=I2C_SDA Pin=J5-5
+Removed Pin From Net: NetName=I2C_SCL Pin=J5-6
+Removed Pin From Net: NetName=GND Pin=J5-7
+Removed Pin From Net: NetName=RESET_N Pin=J5-8
+Removed Pin From Net: NetName=DONE Pin=J5-9
+Removed Pin From Net: NetName=V_Select Pin=S2-2
+Removed Member From Class: ClassName=Sheet2 Member=J5
+Change Component Footprint: Designator=* Old Footprint=CO2_Sensor New Footprint=LED_APTD1608SURCK
+Change Component Comment : Designator=* Old Comment=CO2_Sensor New Comment=LED_APTD1608SURCK
+Added Component: Designator=*(CO2_Sensor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(FTS10503FDVTR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-xxx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FTSH-105-01-F-DV-K-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-FTSH10501FDVKTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=200-FTSH10501FDVKTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1802893P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1802893P"; VariantName = "[No Variations]"
+Added Component: Designator=R2(PASSIVE-RESISTOR-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Through Hole (y/n)"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "180"; VariantName = "[No Variations]"
+Added Component: Designator=S4(TL1014BF160QG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.e-switch.com/system/asset/product_line/data_sheet/141/TL1014.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL1014BF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "612-TL1014BF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=612-TL1014BF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SJ1(DEBUG-SOLDER-JUMPER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Debug"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=GPIO11_A_D Pin=*-5
+Added Pin To Net: NetName=GPIO12_A_D Pin=*-7
+Added Pin To Net: NetName=V_Select Pin=J1-1
+Added Pin To Net: NetName=JTAG_TMSC Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=JTAG_TCKC Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=DIO16_TDO Pin=J1-6
+Added Pin To Net: NetName=DIO17_TDI Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=RESET_N Pin=J1-10
+Added Pin To Net: NetName=V_Select Pin=S4-1
+Added Pin To Net: NetName=V_Select Pin=S4-2
+Added Pin To Net: NetName=V_Select Pin=SJ1-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R2-1
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=NetJ4_9 Pin=J4-9
+Added Pin To Net: NetName=NetJ4_9 Pin=R2-2
+Added Net: Name=NetJ4_9
+Added Pin To Net: NetName=NetJ4_10 Pin=J4-10
+Added Pin To Net: NetName=NetJ4_10 Pin=SJ1-2
+Added Net: Name=NetJ4_10
+Added Pin To Net: NetName=NetS2_2 Pin=S2-2
+Added Pin To Net: NetName=NetS2_2 Pin=S4-3
+Added Pin To Net: NetName=NetS2_2 Pin=S4-4
+Added Net: Name=NetS2_2
+Added Member To Class: ClassName=Sheet2 Member=Component * LED_APTD1608SURCK
+Added Member To Class: ClassName=Sheet2 Member=Component J1 FTSH-105-01-F-DV-K-TR
+Added Member To Class: ClassName=Sheet2 Member=Component R2 Passive-Resistor (Generic)
+Added Member To Class: ClassName=Sheet1 Member=Component S4 TL1014BF160QG
+Added Member To Class: ClassName=Sheet2 Member=Component SJ1 Debug-Solder-Jumper
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

@@ -1,0 +1,89 @@
+Added Component: Designator=*(BHAAA2468)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(SHDR10W87P0X254_1X10_2590X250X865P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(SHDR10W87P0X254_1X10_2590X250X865P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Net: Name=DCDC_SW
+Added Pin To Net: NetName=DIO16_TDO Pin=J4-8
+Added Net: Name=DIO16_TDO
+Added Pin To Net: NetName=DIO17_TDI Pin=J4-9
+Added Net: Name=DIO17_TDI
+Added Pin To Net: NetName=DIO18_SWO Pin=J4-10
+Added Net: Name=DIO18_SWO
+Added Net: Name=DONE
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=J5-7
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO7_A_D Pin=J5-1
+Added Net: Name=GPIO7_A_D
+Added Pin To Net: NetName=GPIO8_A_D Pin=J4-1
+Added Net: Name=GPIO8_A_D
+Added Pin To Net: NetName=GPIO9_A_D Pin=J4-2
+Added Net: Name=GPIO9_A_D
+Added Pin To Net: NetName=GPIO10_A_D Pin=J4-3
+Added Net: Name=GPIO10_A_D
+Added Pin To Net: NetName=GPIO11_A_D Pin=J4-4
+Added Net: Name=GPIO11_A_D
+Added Pin To Net: NetName=GPIO12_A_D Pin=J4-5
+Added Net: Name=GPIO12_A_D
+Added Net: Name=hot1
+Added Net: Name=hot2
+Added Pin To Net: NetName=I2C_SCL Pin=J5-6
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=J5-5
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=JTAG_TCKC Pin=J4-6
+Added Net: Name=JTAG_TCKC
+Added Pin To Net: NetName=JTAG_TMSC Pin=J4-7
+Added Net: Name=JTAG_TMSC
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Net: Name=Net*_2
+Added Net: Name=NetC6_1
+Added Net: Name=NetC12_1
+Added Net: Name=NetC15_2
+Added Net: Name=NetC16_2
+Added Net: Name=NetC18_2
+Added Net: Name=NetD1_1
+Added Net: Name=NetIC2_4
+Added Net: Name=NetIC2_5
+Added Net: Name=NetPB1_1
+Added Net: Name=NetR2_1
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=RESET_N Pin=J5-8
+Added Net: Name=RESET_N
+Added Net: Name=RF_P_2_4
+Added Net: Name=TPL_DRV
+Added Pin To Net: NetName=UART_RX Pin=J5-3
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=J5-4
+Added Net: Name=UART_TX
+Added Net: Name=V_Barrel
+Added Net: Name=V_L
+Added Pin To Net: NetName=V_Select Pin=J5-2
+Added Net: Name=V_Select
+Added Net: Name=V_Switch
+Added Net: Name=VCC3V3
+Added Net: Name=VDDR
+Added Net: Name=VDDS
+Added Net: Name=Vin
+Added Class: Name=Sheet1
+Added Class: Name=Sheet2
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

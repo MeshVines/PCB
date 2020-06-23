@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=I2C_SCL Pin=IC3-9
+Removed Pin From Net: NetName=I2C_SDA Pin=IC3-10
+Removed Pin From Net: NetName=DONE Pin=IC3-12
+Removed Pin From Net: NetName=DIO14 Pin=IC3-20
+Added Pin To Net: NetName=I2C_SCL Pin=IC3-20
+Added Pin To Net: NetName=I2C_SDA Pin=IC3-21
+Added Pin To Net: NetName=DIO14 Pin=IC3-28
+Added Pin To Net: NetName=DONE Pin=IC3-29
+Change Net Name : Old Net Name=DIO14 New Net Name=BTN_1
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

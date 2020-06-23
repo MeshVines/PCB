@@ -1,0 +1,7 @@
+Added Component: Designator=*(BHAAA2468)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component * BHAAA2468
+Added Member To Class: ClassName=Sheet2 Member=Component Y2 PTS810_SJK_250_SMTR_LFS
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

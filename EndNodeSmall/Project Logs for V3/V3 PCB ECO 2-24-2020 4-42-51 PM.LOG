@@ -1,0 +1,9 @@
+Added Component: Designator=SJ4(DEBUG-SOLDER-JUMPER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Debug"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHM1_5 Pin=SJ4-1
+Added Pin To Net: NetName=V_Select Pin=SJ4-2
+Added Member To Class: ClassName=Sheet3 Member=Component SJ4 Debug-Solder-Jumper
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

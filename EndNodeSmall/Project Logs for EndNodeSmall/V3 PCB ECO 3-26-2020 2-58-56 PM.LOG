@@ -1,0 +1,200 @@
+Removed Pin From Net: NetName=Vin Pin=C7-2
+Removed Pin From Net: NetName=NetC11_2 Pin=C11-2
+Removed Pin From Net: NetName=V_Barrel Pin=C12-2
+Removed Pin From Net: NetName=Vin Pin=C13-2
+Removed Pin From Net: NetName=Vin Pin=C14-2
+Removed Pin From Net: NetName=RESET_N Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=DIO14 Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=R2-1
+Removed Pin From Net: NetName=NetJ2_1 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=RESET_N Pin=R7-1
+Removed Pin From Net: NetName=VDDS Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=DIO14 Pin=R9-1
+Removed Pin From Net: NetName=I2C_SCL Pin=R10-1
+Removed Pin From Net: NetName=V_Select Pin=R10-2
+Removed Pin From Net: NetName=I2C_SDA Pin=R11-1
+Removed Pin From Net: NetName=V_Select Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Member From Class: ClassName=Sheet1 Member=C14
+Removed Member From Class: ClassName=Sheet1 Member=C15
+Removed Member From Class: ClassName=Sheet2 Member=C19
+Removed Member From Class: ClassName=Sheet2 Member=C21
+Removed Member From Class: ClassName=Sheet2 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R7
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Removed Member From Class: ClassName=Sheet2 Member=R9
+Removed Member From Class: ClassName=Sheet3 Member=R10
+Removed Member From Class: ClassName=Sheet3 Member=R11
+Removed Member From Class: ClassName=Sheet2 Member=R13
+Change Component Footprint: Designator=C1 Old Footprint=PASSIVE-CAPACITOR-0603 New Footprint=CAPC1005X60X30ML05T10
+Change Component Footprint: Designator=C2 Old Footprint=PASSIVE-CAPACITOR-0603 New Footprint=CAPC1005X60X30ML05T10
+Change Component Footprint: Designator=C3 Old Footprint=PASSIVE-CAPACITOR-0603 New Footprint=CAPC1005X60X30ML05T10
+Change Component Footprint: Designator=C5 Old Footprint=PASSIVE-CAPACITOR-0603 New Footprint=CAPC1005X60X30ML05T10
+Change Component Footprint: Designator=C7 Old Footprint=PASSIVE-CAPACITOR-0603 New Footprint=CAPC1005X60X30ML05T10
+Change Component Footprint: Designator=C12 Old Footprint=PASSIVE-CAPACITOR-0603 New Footprint=CAPC1005X60X30ML05T10
+Change Component Footprint: Designator=C13 Old Footprint=PASSIVE-CAPACITOR-0603 New Footprint=CAPC1005X60X30ML05T10
+Change Component Footprint: Designator=C14 Old Footprint=PASSIVE-CAPACITOR-0603 New Footprint=CAPC1005X60X30ML05T10
+Change Component Footprint: Designator=C15 Old Footprint=PASSIVE-CAPACITOR-0603 New Footprint=CAPC1005X60X30ML05T10
+Change Component Footprint: Designator=C11 Old Footprint=PASSIVE-CAPACITOR-0603 New Footprint=KEMT-1206-2_M
+Change Component Footprint: Designator=R1 Old Footprint=PASSIVE-RESISTOR-0603 New Footprint=RESC1005X40X25NL05T05
+Change Component Footprint: Designator=R2 Old Footprint=PASSIVE-RESISTOR-0603 New Footprint=RESC1005X40X25NL05T05
+Change Component Footprint: Designator=R3 Old Footprint=PASSIVE-RESISTOR-0603 New Footprint=RESC1005X40X25NL05T05
+Change Component Footprint: Designator=R7 Old Footprint=PASSIVE-RESISTOR-0603 New Footprint=RESC1005X40X25NL05T05
+Change Component Footprint: Designator=R8 Old Footprint=PASSIVE-RESISTOR-0603 New Footprint=RESC1005X40X25NL05T05
+Change Component Footprint: Designator=R9 Old Footprint=PASSIVE-RESISTOR-0603 New Footprint=RESC1005X40X25NL05T05
+Change Component Comment : Designator=C11 Old Comment=Passive-Capacitor (Generic) New Comment=1206 10uF
+Change Component Comment : Designator=C1 Old Comment=Passive-Capacitor (Generic) New Comment=C0402 0.1uF
+Change Component Comment : Designator=C2 Old Comment=Passive-Capacitor (Generic) New Comment=C0402 0.1uF
+Change Component Comment : Designator=C3 Old Comment=Passive-Capacitor (Generic) New Comment=C0402 0.1uF
+Change Component Comment : Designator=C5 Old Comment=Passive-Capacitor (Generic) New Comment=C0402 0.1uF
+Change Component Comment : Designator=C7 Old Comment=Passive-Capacitor (Generic) New Comment=C0402 0.1uF
+Change Component Comment : Designator=C15 Old Comment=Passive-Capacitor (Generic) New Comment=C0402 0.1uF
+Change Component Comment : Designator=C12 Old Comment=Passive-Capacitor (Generic) New Comment=C0402 1uF
+Change Component Comment : Designator=C13 Old Comment=Passive-Capacitor (Generic) New Comment=C0402 1uF
+Change Component Comment : Designator=C14 Old Comment=Passive-Capacitor (Generic) New Comment=C0402 1uF
+Change Component Comment : Designator=R1 Old Comment=Passive-Resistor (Generic) New Comment=R0402 1k
+Change Component Comment : Designator=R7 Old Comment=Passive-Resistor (Generic) New Comment=R0402 1k
+Change Component Comment : Designator=R8 Old Comment=Passive-Resistor (Generic) New Comment=R0402 4.7k
+Change Component Comment : Designator=R9 Old Comment=Passive-Resistor (Generic) New Comment=R0402 4.7k
+Change Component Comment : Designator=R2 Old Comment=Passive-Resistor (Generic) New Comment=R0402 42.9k
+Change Component Comment : Designator=R3 Old Comment=Passive-Resistor (Generic) New Comment=R0402 100k
+Change component parameters: Designator = "C1"; Footprint = "CAPC1005X60X30ML05T10"; UniqueID = "\BBDIVSLP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAPC1005X60X30ML05T10"; UniqueID = "\TLRXWMLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAPC1005X60X30ML05T10"; UniqueID = "\WBEKJDPH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "CAPC1005X60X30ML05T10"; UniqueID = "\VTGHCHEJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "CAPC1005X60X30ML05T10"; UniqueID = "\SZNDYDKL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "CAPC1005X60X30ML05T10"; UniqueID = "\YSGURFOU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "CAPC1005X60X30ML05T10"; UniqueID = "\EGHWSAIL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14"; Footprint = "CAPC1005X60X30ML05T10"; UniqueID = "\KPILWSKI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "CAPC1005X60X30ML05T10"; UniqueID = "\NDPFPLAM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104K8PACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\JMADHEPO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\DUYCOQEW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\GEDJYFFJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\NTUWVLUR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\KGRFSOQY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "RESC1005X40X25NL05T05"; UniqueID = "\WUBKSXIT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "KEMT-1206-2_M"; UniqueID = "\LRDUXTGX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitor Case Style"; Value = "1206[3216Metric]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/6125/1725438-6125494.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Jul-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-55degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Leads SMD, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape&Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "KEMET-CSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1005X40X25NL05T05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1005X40X25NL05T05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1005X40X25NL05T05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW040210K0FKED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET_N Pin=C7-2
+Added Pin To Net: NetName=Vin Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=C12-2
+Added Pin To Net: NetName=V_Barrel Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=DIO14 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=RESET_N Pin=R3-1
+Added Pin To Net: NetName=VDDS Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R5-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R5-2
+Added Pin To Net: NetName=DIO14 Pin=R6-1
+Added Pin To Net: NetName=V_Select Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=I2C_SCL Pin=R8-1
+Added Pin To Net: NetName=V_Select Pin=R8-2
+Added Pin To Net: NetName=I2C_SDA Pin=R9-1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC12_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=IC3-23
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-3
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=Y1-1
+Added Pin To Net: NetName=NetR4_2 Pin=Y1-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=Y2-1
+Added Pin To Net: NetName=NetR7_2 Pin=Y2-2
+Added Net: Name=NetR7_2
+Added Member To Class: ClassName=Sheet2 Member=Component C14 C0402 1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C15 C0402 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component R2 R0402 42.9k
+Added Member To Class: ClassName=Sheet1 Member=Component R4 R0402 1k
+Added Member To Class: ClassName=Sheet2 Member=Component R5 R0402 180
+Added Member To Class: ClassName=Sheet2 Member=Component R6 R0402 100k
+Added Member To Class: ClassName=Sheet2 Member=Component R7 R0402 1k
+Added Member To Class: ClassName=Sheet3 Member=Component R8 R0402 4.7k
+Added Member To Class: ClassName=Sheet3 Member=Component R9 R0402 4.7k
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

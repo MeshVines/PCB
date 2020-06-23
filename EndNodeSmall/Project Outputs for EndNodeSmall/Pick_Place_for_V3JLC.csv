@@ -1,0 +1,48 @@
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+C7,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-28,3464mm","-14,4018mm",360,Generic Capacitor
+U2,BHX1-2032-PC,TopLayer,BHX12032PC,"-0,7810mm","-20,7010mm",180,Undefined or Miscellaneous
+S2,TL1014BF160QG,TopLayer,TL1014BF160QG,"-28,4814mm","-27,7896mm",270,Switch
+J1,FTSH-105-01-F-DV-K-TR,TopLayer,FTS10503FDVTR,"-27,9400mm","-35,8467mm",360,Connector
+J3,87220-2,TopLayer,HDRV2W67P0X254_1X2_467X234X1083P,"2,5146mm","-34,5186mm",180,Connector
+J2,87220-2,TopLayer,HDRV2W67P0X254_1X2_467X234X1083P,"-21,1328mm","-33,1724mm",90,Connector
+R2,Passive-Resistor (Generic),TopLayer,PASSIVE-RESISTOR-0603,"-22,4536mm","-37,5666mm",90,Generic Resistor
+*,LED_APTD1608SURCK,TopLayer,LED_APTD1608SURCK,"-20,6502mm","-37,5031mm",270,
+R14,Passive-Resistor (Generic),TopLayer,PASSIVE-RESISTOR-0603,"11,3538mm","-44,0944mm",360,Generic Resistor
+R13,Passive-Resistor (Generic),TopLayer,PASSIVE-RESISTOR-0603,"-25,0190mm","-28,9052mm",90,Generic Resistor
+R12,Passive-Resistor (Generic),TopLayer,PASSIVE-RESISTOR-0603,"0,9906mm","-41,9100mm",270,Generic Resistor
+R9,Passive-Resistor (Generic),TopLayer,PASSIVE-RESISTOR-0603,"-17,3736mm","-29,3878mm",270,Generic Resistor
+PB3,Interface-Push-Button,TopLayer,INTERFACE-PUSH-BUTTON,"9,6774mm","-40,9194mm",180,"2.5mm Tall, 2.5N Force, Straight, SMD, Push Button"
+PB2,Interface-Push-Button,TopLayer,INTERFACE-PUSH-BUTTON,"-21,2852mm","-28,0924mm",0,"2.5mm Tall, 2.5N Force, Straight, SMD, Push Button"
+C22,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"5,8674mm","-38,3032mm",360,Generic Capacitor
+C19,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-17,3826mm","-26,7900mm",90,Generic Capacitor
+HM1,HDC1080DMBT,TopLayer,SON100P300X300X80-7N,"9,4234mm","-49,9110mm",360,Hygrometer
+U3,RF_ANTENNA_2,TopLayer,RF_TRACE_ANTENNA_2,"-12,0660mm","-44,7250mm",180,
+R11,Passive-Resistor (Generic),TopLayer,PASSIVE-RESISTOR-0603,"8,6614mm","-45,3390mm",360,Generic Resistor
+R10,Passive-Resistor (Generic),TopLayer,PASSIVE-RESISTOR-0603,"10,1600mm","-46,9646mm",180,Generic Resistor
+IC3,XCC1352R1F3RGZR,TopLayer,QFN50P700X700X100-49N-D,"-9,1694mm","-39,3954mm",90,Integrated Circuit
+C21,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-1,8542mm","-35,9410mm",180,Generic Capacitor
+Y3,CX2016DB48000C0FPLC1,TopLayer,CX2016DB48000C0FPLC1,"-17,7546mm","-39,8272mm",45,Crystal or Oscillator
+U1,TPL5111DDCR,TopLayer,SOT95P280X110-6N,"-18,1149mm","-20,7668mm",360,Undefined or Miscellaneous
+S1,TPS22860DBVR,TopLayer,SOT95P280X145-6N,"-26,8986mm","-21,4630mm",90,Switch
+R8,Passive-Resistor (Generic),TopLayer,PASSIVE-RESISTOR-0603,"10,6680mm","-32,4612mm",360,Generic Resistor
+R7,Passive-Resistor (Generic),TopLayer,PASSIVE-RESISTOR-0603,"5,4102mm","-36,6776mm",180,Generic Resistor
+R3,Passive-Resistor (Generic),TopLayer,PASSIVE-RESISTOR-0603,"-21,6408mm","-24,1808mm",270,Generic Resistor
+R1,Passive-Resistor (Generic),TopLayer,PASSIVE-RESISTOR-0603,"-18,7706mm","-24,1554mm",90,Generic Resistor
+PB1,Interface-Push-Button,TopLayer,INTERFACE-PUSH-BUTTON,"9,7028mm","-36,0426mm",180,"2.5mm Tall, 2.5N Force, Straight, SMD, Push Button"
+L2,VLF302515MT-3R3M,TopLayer,VLF302515MT,"-27,4574mm","-10,5038mm",90,Inductor
+L1,Passive-Inductor (Generic),TopLayer,PASSIVE-INDUCTOR-0603,"-11,9380mm","-32,8422mm",180,Generic Inductor
+IC1,TPS61291DRVT,TopLayer,SON65P200X200X80-7N,"-20,0914mm","-9,7282mm",360,Integrated Circuit
+FL1,BLM18HE152SN1B,TopLayer,BEADC1608X95N,"-2,0320mm","-34,0106mm",180,Filter
+D1,1SS315TPH3F,TopLayer,SOD2513X110N,"-16,4084mm","-15,0876mm",270,Schottky Diode
+C15,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"6,2230mm","-34,6202mm",90,Generic Capacitor
+C14,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-17,4244mm","-10,9982mm",270,Generic Capacitor
+C13,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-15,7226mm","-11,0236mm",270,Generic Capacitor
+C10,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-15,3416mm","-32,8422mm",270,Generic Capacitor
+C9,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-16,9926mm","-32,9438mm",270,Generic Capacitor
+C8,,TopLayer,PASSIVE-CAPACITOR-0603,"-17,6022mm","-35,6108mm",135,Generic Capacitor
+C6,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-28,3210mm","-16,6878mm",360,Generic Capacitor
+C5,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-1,6510mm","-41,1734mm",180,Generic Capacitor
+C4,,TopLayer,PASSIVE-CAPACITOR-0603,"-1,7780mm","-37,9476mm",360,Generic Capacitor
+C3,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-8,8646mm","-32,7406mm",270,Generic Capacitor
+C2,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-1,6764mm","-39,4208mm",180,Generic Capacitor
+C1,Passive-Capacitor (Generic),TopLayer,PASSIVE-CAPACITOR-0603,"-6,7818mm","-32,7914mm",270,Generic Capacitor

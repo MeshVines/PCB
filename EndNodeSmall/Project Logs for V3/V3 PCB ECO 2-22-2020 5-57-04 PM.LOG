@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VDDS Pin=SJ3-2
+Removed Pin From Net: NetName=VDDS Pin=SJ4-2
+Added Pin To Net: NetName=V_Select Pin=SJ3-2
+Added Pin To Net: NetName=V_Select Pin=SJ4-2
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

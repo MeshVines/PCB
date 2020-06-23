@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=V_Switch Pin=SJ5-1
+Removed Pin From Net: NetName=VCC3V3 Pin=SJ5-2
+Removed Member From Class: ClassName=Sheet1 Member=SJ5
+Added Member To Class: ClassName=Sheet2 Member=Component * LED_APTD1608SURCK
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

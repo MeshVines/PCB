@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Added Component: Designator=U?(BS7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MPD (Memory Protection Devices)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BS-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(BS7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MPD (Memory Protection Devices)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BS-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=NetD1_2 Pin=U?-2
+Added Member To Class: ClassName=Sheet1 Member=Component U? BS-7
+Added Member To Class: ClassName=Sheet1 Member=Component U? BS-7

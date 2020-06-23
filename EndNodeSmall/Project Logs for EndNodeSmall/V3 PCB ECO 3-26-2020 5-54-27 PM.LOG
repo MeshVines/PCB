@@ -1,0 +1,91 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAPC1005X60X30ML05T10 New Footprint=CAPC0603X33N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1005X60X30ML05T10 New Footprint=CAPC0603X33N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1005X60X30ML05T10 New Footprint=CAPC0603X33N
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1005X60X30ML05T10 New Footprint=CAPC0603X33N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC1005X60X30ML05T10 New Footprint=CAPC0603X33N
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1005X60X30ML05T10 New Footprint=CAPC0603X33N
+Change Component Footprint: Designator=C14 Old Footprint=CAPC1005X60X30ML05T10 New Footprint=CAPC0603X33N
+Change Component Footprint: Designator=C15 Old Footprint=CAPC1005X60X30ML05T10 New Footprint=CAPC0603X33N
+Change component parameters: Designator = "C2"; Footprint = "CAPC0603X33N"; UniqueID = "\KAJPYZBS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAPC0603X33N"; UniqueID = "\JTNPYLCH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "CAPC0603X33N"; UniqueID = "\SIHOPTKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "CAPC0603X33N"; UniqueID = "\FTDXNVEM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "CAPC0603X33N"; UniqueID = "\ZQQNWRJT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "CAPC0603X33N"; UniqueID = "\IREOSMVV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14"; Footprint = "CAPC0603X33N"; UniqueID = "\FPVDJEGF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "CAPC0603X33N"; UniqueID = "\LFXSSVGX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=581-02014D474MAT2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

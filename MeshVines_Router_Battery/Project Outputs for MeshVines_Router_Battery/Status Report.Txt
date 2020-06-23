@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MeshVines_Router_Battery.PrjPcb]
+   Generated File[V3.TXT]
+   Generated File[V3.LDP]
+   Generated File[V3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:00:51 AM On 5/4/2020

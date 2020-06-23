@@ -1,0 +1,50 @@
+Added Component: Designator=J1(FTS10503FDVTR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-xxx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FTSH-105-01-F-DV-K-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-FTSH10501FDVKTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=200-FTSH10501FDVKTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1802893P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1802893P"; VariantName = "[No Variations]"
+Added Component: Designator=J2(HDRV10W80P254_2X5_1270X508X864P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "R1053034"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/harwin-m20-9980545/R1053034/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/M20-9980545.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.64mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "HARWIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M20-9980545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "855-M20-9980545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=855-M20-9980545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6812950P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6812950P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_Select Pin=J1-1
+Added Pin To Net: NetName=JTAG_TMSC Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=JTAG_TCKC Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=DIO16_TDO Pin=J1-6
+Added Pin To Net: NetName=DIO17_TDI Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=RESET_N Pin=J1-10
+Added Pin To Net: NetName=RESET_N Pin=J2-2
+Added Pin To Net: NetName=JTAG_TCKC Pin=J2-4
+Added Pin To Net: NetName=UART_RX Pin=J2-5
+Added Pin To Net: NetName=JTAG_TMSC Pin=J2-6
+Added Pin To Net: NetName=UART_TX Pin=J2-7
+Added Pin To Net: NetName=V_Select Pin=J2-8
+Added Pin To Net: NetName=V_Select Pin=J2-9
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-3
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_10 Pin=J2-10
+Added Pin To Net: NetName=NetJ2_10 Pin=R2-2
+Added Net: Name=NetJ2_10
+Added Member To Class: ClassName=Sheet2 Member=Component * LED_APTD1608SURCK
+Added Member To Class: ClassName=Sheet3 Member=Component * CO2_Sensor
+Added Member To Class: ClassName=Sheet2 Member=Component J1 FTSH-105-01-F-DV-K-TR
+Added Member To Class: ClassName=Sheet2 Member=Component J2 M20-9980545
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

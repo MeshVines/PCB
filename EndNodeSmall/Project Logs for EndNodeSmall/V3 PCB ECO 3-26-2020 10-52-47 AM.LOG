@@ -1,0 +1,200 @@
+Removed Pin From Net: NetName=GND Pin=*-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=V_Barrel Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=Vin Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=IC2-2
+Removed Pin From Net: NetName=V_Barrel Pin=IC2-3
+Removed Pin From Net: NetName=GND Pin=IC2-4
+Removed Pin From Net: NetName=V_Select Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=JTAG_TMSC Pin=J1-6
+Removed Pin From Net: NetName=JTAG_TCKC Pin=J1-8
+Removed Pin From Net: NetName=GND Pin=J1-9
+Removed Pin From Net: NetName=RESET_N Pin=J1-10
+Removed Pin From Net: NetName=RESET_N Pin=PB1-2
+Removed Pin From Net: NetName=DIO15 Pin=PB2-2
+Removed Pin From Net: NetName=DIO14 Pin=PB3-2
+Removed Pin From Net: NetName=V_Select Pin=S2-1
+Removed Pin From Net: NetName=V_Select Pin=S2-2
+Removed Pin From Net: NetName=V_Switch Pin=S2-3
+Removed Pin From Net: NetName=V_Switch Pin=S2-4
+Removed Member From Class: ClassName=Sheet2 Member=*
+Removed Member From Class: ClassName=Sheet1 Member=C11
+Removed Member From Class: ClassName=Sheet1 Member=C12
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=IC2
+Removed Member From Class: ClassName=Sheet2 Member=J1
+Removed Member From Class: ClassName=Sheet1 Member=PB1
+Removed Member From Class: ClassName=Sheet2 Member=PB2
+Removed Member From Class: ClassName=Sheet2 Member=PB3
+Removed Member From Class: ClassName=Sheet1 Member=S2
+Added Component: Designator=C?(PASSIVE-CAPACITOR-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Through Hole (y/n)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(PASSIVE-CAPACITOR-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Through Hole (y/n)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOD3716X135N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/85661/bat42w.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BAT42W-E3-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "78-BAT42W-E3-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=78-BAT42W-E3-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1808601P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1808601P"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOT95P280X145-5N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/tlv702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLV70233DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TLV70233DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TLV70233DBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDRV6W67P254_2X3_762X483X858P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/10129381-906002BLF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "10129381-906002BLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "649-1012938190602BLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=649-1012938190602BLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LEDC2012X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C171GKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LTST-C171GKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "859-LTST-C171GKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=859-LTST-C171GKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6920935P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6920935P"; VariantName = "[No Variations]"
+Added Component: Designator=S?(EVQQ2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70270751"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-evq-q2y03w/70270751/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/315/sw_lt_eng_6s_th-1289042.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EVQ-Q2Y03W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EVQ-Q2Y03W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-EVQ-Q2Y03W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y?(PTS810SJK250SMTRLFS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/1476/pts810.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTS810 SJK 250 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PTS810SJK250SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=611-PTS810SJK250SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y?(PTS810SJK250SMTRLFS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/1476/pts810.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTS810 SJK 250 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PTS810SJK250SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=611-PTS810SJK250SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y?(PTS810SJK250SMTRLFS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/1476/pts810.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTS810 SJK 250 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PTS810SJK250SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=611-PTS810SJK250SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=V_Barrel Pin=C?-2
+Added Pin To Net: NetName=Vin Pin=D?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=V_Barrel Pin=IC?-5
+Added Pin To Net: NetName=V_Select Pin=J?-1
+Added Pin To Net: NetName=JTAG_TMSC Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=JTAG_TCKC Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=RESET_N Pin=J?-6
+Added Pin To Net: NetName=GND Pin=LED?-1
+Added Pin To Net: NetName=V_Switch Pin=S?-1
+Added Pin To Net: NetName=V_Select Pin=S?-2
+Added Pin To Net: NetName=V_Barrel Pin=S?-3
+Added Pin To Net: NetName=V_Select Pin=S?-3
+Added Pin To Net: NetName=DIO14 Pin=Y?-3
+Added Pin To Net: NetName=DIO15 Pin=Y?-3
+Added Pin To Net: NetName=RESET_N Pin=Y?-3
+Added Pin To Net: NetName=DIO14 Pin=Y?-4
+Added Pin To Net: NetName=DIO15 Pin=Y?-4
+Added Pin To Net: NetName=RESET_N Pin=Y?-4
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-1
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-3
+Added Pin To Net: NetName=NetC?_2 Pin=J4-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=U2-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=R2-1
+Added Net: Name=NetLED?_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=Y?-1
+Added Pin To Net: NetName=NetR8_2 Pin=Y?-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=Y?-1
+Added Pin To Net: NetName=NetR13_2 Pin=Y?-2
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=Y?-1
+Added Pin To Net: NetName=NetR14_2 Pin=Y?-2
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetS?_1 Pin=S?-1
+Added Pin To Net: NetName=NetS?_1 Pin=S?-2
+Added Pin To Net: NetName=NetS?_1 Pin=S?-4
+Added Net: Name=NetS?_1
+Added Member To Class: ClassName=Sheet1 Member=Component C? Passive-Capacitor (Generic)
+Added Member To Class: ClassName=Sheet1 Member=Component C? Passive-Capacitor (Generic)
+Added Member To Class: ClassName=Sheet1 Member=Component D? BAT42W-E3-08
+Added Member To Class: ClassName=Sheet1 Member=Component IC? TLV70233DBVR
+Added Member To Class: ClassName=Sheet2 Member=Component J? 10129381-906002BLF
+Added Member To Class: ClassName=Sheet2 Member=Component LED? LTST-C171GKT
+Added Member To Class: ClassName=Sheet1 Member=Component S? MHSS1105
+Added Member To Class: ClassName=Sheet1 Member=Component S? EVQ-Q2Y03W
+Added Member To Class: ClassName=Sheet1 Member=Component Y? PTS810_SJK_250_SMTR_LFS
+Added Member To Class: ClassName=Sheet2 Member=Component Y? PTS810_SJK_250_SMTR_LFS
+Added Member To Class: ClassName=Sheet2 Member=Component Y? PTS810_SJK_250_SMTR_LFS
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

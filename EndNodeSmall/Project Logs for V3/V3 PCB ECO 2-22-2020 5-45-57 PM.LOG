@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VDDR Pin=SJ1-2
+Removed Pin From Net: NetName=VDDS Pin=SJ2-2
+Removed Member From Class: ClassName=Sheet2 Member=SJ1
+Removed Member From Class: ClassName=Sheet2 Member=SJ2
+Added Pin To Net: NetName=VDDS Pin=IC3-34
+Added Pin To Net: NetName=VDDR Pin=IC3-48
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

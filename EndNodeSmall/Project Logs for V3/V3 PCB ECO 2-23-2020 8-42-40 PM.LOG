@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GPIO11_A_D Pin=J4-4
+Added Member To Class: ClassName=Sheet3 Member=Component * CO2_Sensor
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

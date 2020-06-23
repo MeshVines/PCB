@@ -1,0 +1,18 @@
+Added Component: Designator=Y2(PTS810SJK250SMTRLFS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/1476/pts810.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTS810 SJK 250 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PTS810SJK250SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=611-PTS810SJK250SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR7_2 Pin=Y2-1
+Added Pin To Net: NetName=NetR7_2 Pin=Y2-2
+Added Pin To Net: NetName=BTN_1 Pin=Y2-3
+Added Pin To Net: NetName=BTN_1 Pin=Y2-4
+Added Member To Class: ClassName=Sheet2 Member=Component Y2 PTS810_SJK_250_SMTR_LFS
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

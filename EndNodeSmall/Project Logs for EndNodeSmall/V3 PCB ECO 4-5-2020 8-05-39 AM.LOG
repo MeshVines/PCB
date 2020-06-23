@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC1
+Added Member To Class: ClassName=Sheet1 Member=Component IC5 TLV70233DBVR
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

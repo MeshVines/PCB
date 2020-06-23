@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Added Component: Designator=U?(BLP2032SMGTR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.memoryprotectiondevices.com/datasheets/BLP2032SM-GTR-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MPD (Memory Protection Devices)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BLP2032SM-GTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Member To Class: ClassName=Sheet1 Member=Component C11 Passive-Capacitor (Generic)
+Added Member To Class: ClassName=Sheet1 Member=Component U? BLP2032SM-GTR
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

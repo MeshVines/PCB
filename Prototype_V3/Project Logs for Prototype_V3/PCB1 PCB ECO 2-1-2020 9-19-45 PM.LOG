@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=*J6 NewDesignator=*J1
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Added Component: Designator=HM1(SON100P300X300X80-7N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/ds/2/405/hdc1080-844688.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HDC1080DMBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-HDC1080DMBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-HDC1080DMBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1330170P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1330170P"; VariantName = "[No Variations]"
+Added Component: Designator=J4(SHDR10W87P254_2X5_1320X508X870P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.sullinscorp.com/drawings/78_P(N)PxCxxxLFBN-RC,_10492-H.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPTC052LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net*1_2
+Added Member To Class: ClassName=Sheet1 Member=Component *1 BHAAA2468
+Added Member To Class: ClassName=Sheet2.SchDoc Member=Component HM1 HDC1080DMBT
+Added Member To Class: ClassName=Sheet2.SchDoc Member=Component J4 PPTC052LFBN-RC
+Added Member To Class: ClassName=Sheet2.SchDoc Member=Component J5 61301011821
+Added Member To Class: ClassName=Sheet2.SchDoc Member=Component J6 61301011821
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2.SchDoc

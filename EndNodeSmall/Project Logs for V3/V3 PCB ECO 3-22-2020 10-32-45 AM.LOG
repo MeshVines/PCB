@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=JTAG_TMSC Pin=J1-2
+Removed Pin From Net: NetName=JTAG_TCKC Pin=J1-4
+Removed Pin From Net: NetName=DIO16_TDO Pin=J1-6
+Removed Pin From Net: NetName=DIO17_TDI Pin=J1-8
+Added Pin To Net: NetName=JTAG_TMSC Pin=J1-6
+Added Pin To Net: NetName=JTAG_TCKC Pin=J1-8
+Added Member To Class: ClassName=Sheet2 Member=Component J1 FTSH-105-01-F-DV-K-TR
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

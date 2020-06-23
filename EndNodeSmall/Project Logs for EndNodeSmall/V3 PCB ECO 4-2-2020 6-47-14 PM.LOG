@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=Y3 Old Footprint=CX2016DB48000C0FPLC1 New Footprint=ECS-480-8-36CKM
+Change Component Comment : Designator=Y3 Old Comment=CX2016DB48000C0FPLC1 New Comment=ECS-480-8-36CKM
+Change component parameters: Designator = "Y3"; Footprint = "ECS-480-8-36CKM"; UniqueID = "\XEENNNKW"
+Change component parameters. Clean all parameters for all variants
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

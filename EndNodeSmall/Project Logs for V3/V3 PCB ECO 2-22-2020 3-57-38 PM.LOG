@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=UART_RX Pin=*-5
+Removed Pin From Net: NetName=UART_RX Pin=*-7
+Removed Pin From Net: NetName=UART_RX Pin=IC3-18
+Removed Pin From Net: NetName=UART_RX Pin=IC3-19
+Removed Pin From Net: NetName=UART_RX Pin=J5-3
+Removed Pin From Net: NetName=UART_RX Pin=J5-4
+Change Net Name : Old Net Name=UART_RX New Net Name=VDDS
+Added Pin To Net: NetName=UART_RX Pin=*-5
+Added Pin To Net: NetName=UART_RX Pin=IC3-18
+Added Pin To Net: NetName=UART_RX Pin=J5-3
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=*-7
+Added Pin To Net: NetName=UART_TX Pin=IC3-19
+Added Pin To Net: NetName=UART_TX Pin=J5-4
+Added Net: Name=UART_TX
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

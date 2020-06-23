@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GPIO8_A_D Pin=J4-1
+Removed Pin From Net: NetName=GPIO9_A_D Pin=J4-2
+Removed Pin From Net: NetName=GPIO10_A_D Pin=J4-3
+Removed Pin From Net: NetName=GPIO12_A_D Pin=J4-5
+Removed Pin From Net: NetName=DIO16_TDO Pin=J4-8
+Removed Pin From Net: NetName=DIO17_TDI Pin=J4-9
+Removed Pin From Net: NetName=DIO18_SWO Pin=J4-10
+Added Pin To Net: NetName=GPIO12_A_D Pin=J4-1
+Added Pin To Net: NetName=GPIO11_A_D Pin=J4-2
+Added Pin To Net: NetName=DIO18_SWO Pin=J4-3
+Added Pin To Net: NetName=DIO17_TDI Pin=J4-5
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

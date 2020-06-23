@@ -1,0 +1,8 @@
+Added Component: Designator=*(CO2_Sensor)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=UART_TX Pin=*-5
+Added Pin To Net: NetName=UART_RX Pin=*-7
+Added Member To Class: ClassName=Sheet3 Member=Component * CO2_Sensor
+Added Room: Name=Sheet3

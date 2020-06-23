@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=RESET_N Pin=J2-2
+Removed Pin From Net: NetName=JTAG_TCKC Pin=J2-4
+Removed Pin From Net: NetName=JTAG_TMSC Pin=J2-6
+Removed Pin From Net: NetName=V_Select Pin=J2-8
+Added Pin To Net: NetName=V_Select Pin=J2-2
+Added Pin To Net: NetName=JTAG_TMSC Pin=J2-4
+Added Pin To Net: NetName=JTAG_TCKC Pin=J2-6
+Added Pin To Net: NetName=RESET_N Pin=J2-8
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

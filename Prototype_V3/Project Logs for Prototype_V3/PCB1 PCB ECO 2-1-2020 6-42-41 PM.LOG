@@ -1,0 +1,48 @@
+Added Component: Designator=*(BHAAA2468)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(SHDR10W87P0X254_1X10_2590X250X865P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(SHDR10W87P0X254_1X10_2590X250X865P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://katalog.we-online.de/em/datasheet/6130xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-61301011821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=GPIO8_A_D Pin=J4-1
+Added Pin To Net: NetName=GPIO9_A_D Pin=J4-2
+Added Pin To Net: NetName=GPIO10_A_D Pin=J4-3
+Added Pin To Net: NetName=GPIO11_A_D Pin=J4-4
+Added Pin To Net: NetName=GPIO12_A_D Pin=J4-5
+Added Pin To Net: NetName=JTAG_TCKC Pin=J4-6
+Added Pin To Net: NetName=JTAG_TMSC Pin=J4-7
+Added Pin To Net: NetName=DIO16_TDO Pin=J4-8
+Added Pin To Net: NetName=DIO17_TDI Pin=J4-9
+Added Pin To Net: NetName=DIO18_SWO Pin=J4-10
+Added Pin To Net: NetName=GPIO7_A_D Pin=J5-1
+Added Pin To Net: NetName=V_Select Pin=J5-2
+Added Pin To Net: NetName=UART_RX Pin=J5-3
+Added Pin To Net: NetName=UART_TX Pin=J5-4
+Added Pin To Net: NetName=I2C_SDA Pin=J5-5
+Added Pin To Net: NetName=I2C_SCL Pin=J5-6
+Added Pin To Net: NetName=GND Pin=J5-7
+Added Pin To Net: NetName=RESET_N Pin=J5-8
+Change Class Name : Old Net Name=Sheet2 New Net Name=Sheet2.SchDoc
+Added Member To Class: ClassName=Sheet1 Member=Component * BHAAA2468
+Added Member To Class: ClassName=Sheet2.SchDoc Member=Component J4 61301011821
+Added Member To Class: ClassName=Sheet2.SchDoc Member=Component J5 61301011821
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2.SchDoc

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DIO15 Pin=IC3-21
+Removed Pin From Net: NetName=V_Select Pin=S2-2
+Removed Pin From Net: NetName=V_Select Pin=S2-3
+Removed Member From Class: ClassName=Sheet1 Member=S2
+Added Pin To Net: NetName=DIO15 Pin=IC3-20
+Added Pin To Net: NetName=V_Select Pin=S3-2
+Change Net Name : Old Net Name=DIO15 New Net Name=DIO14
+Added Pin To Net: NetName=DIO15 Pin=IC3-21
+Added Net: Name=DIO15
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

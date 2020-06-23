@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=NetC18_2 Pin=Y2-1
+Removed Pin From Net: NetName=NetC20_2 Pin=Y2-2
+Removed Member From Class: ClassName=Sheet1 Member=C7
+Removed Member From Class: ClassName=Sheet1 Member=C11
+Change Component Designator: OldDesignator=Y1 NewDesignator=Y2
+Added Pin To Net: NetName=VDDS Pin=*-5
+Added Pin To Net: NetName=VDDS Pin=*-7
+Added Pin To Net: NetName=VDDS Pin=IC3-18
+Added Pin To Net: NetName=VDDS Pin=IC3-19
+Added Pin To Net: NetName=DIO14 Pin=IC3-20
+Added Pin To Net: NetName=DIO15 Pin=IC3-21
+Added Pin To Net: NetName=VDDS Pin=J5-3
+Added Pin To Net: NetName=VDDS Pin=J5-4
+Change Net Name : Old Net Name=VDDS New Net Name=UART_RX
+Added Member To Class: ClassName=Sheet2 Member=Component Y2 FC-135_32.7680KA-AG0
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

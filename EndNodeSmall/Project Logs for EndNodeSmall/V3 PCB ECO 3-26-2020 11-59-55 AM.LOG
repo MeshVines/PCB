@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=DIO14 Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=DIO14 Pin=R12-1
+Removed Pin From Net: NetName=V_Select Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=DIO14 Pin=Y4-3
+Removed Pin From Net: NetName=DIO14 Pin=Y4-4
+Removed Member From Class: ClassName=Sheet2 Member=C22
+Removed Member From Class: ClassName=Sheet2 Member=R12
+Removed Member From Class: ClassName=Sheet2 Member=R14
+Removed Member From Class: ClassName=Sheet2 Member=Y4
+Added Member To Class: ClassName=Sheet1 Member=Component C11 Passive-Capacitor (Generic)
+Added Member To Class: ClassName=Sheet1 Member=Component C12 Passive-Capacitor (Generic)
+Added Member To Class: ClassName=Sheet1 Member=Component D1 BAT42W-E3-08
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 TLV70233DBVR
+Added Member To Class: ClassName=Sheet1 Member=Component J1 S8421-45R
+Added Member To Class: ClassName=Sheet1 Member=Component S2 EVQ-Q2Y03W
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

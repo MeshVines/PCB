@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C11 Old Footprint=PASSIVE-CAPACITOR-0603 New Footprint=0603_SMD
+Change Component Comment : Designator=C11 Old Comment=Passive-Capacitor (Generic) New Comment=SIZEuF
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change component parameters: Designator = "C11"; Footprint = "0603_SMD"; UniqueID = "\LDBSDNQR"
+Change component parameters. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet1 Member=Component C11 SIZEuF
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

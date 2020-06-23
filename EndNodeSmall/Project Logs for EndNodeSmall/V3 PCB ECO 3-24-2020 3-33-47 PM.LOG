@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=*-1
+Removed Pin From Net: NetName=GPIO11_A_D Pin=*-5
+Removed Pin From Net: NetName=GPIO12_A_D Pin=*-7
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=V_Select Pin=CO2-2
+Removed Pin From Net: NetName=GND Pin=IC2-2
+Removed Pin From Net: NetName=GND Pin=IC2-4
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=NetD1_2 Pin=J6-1
+Removed Pin From Net: NetName=GND Pin=J6-2
+Removed Pin From Net: NetName=V_Switch Pin=S2-1
+Removed Member From Class: ClassName=Sheet3 Member=*
+Removed Member From Class: ClassName=Sheet1 Member=C16
+Removed Member From Class: ClassName=Sheet1 Member=C17
+Removed Member From Class: ClassName=Sheet3 Member=CO2
+Removed Member From Class: ClassName=Sheet1 Member=IC2
+Removed Member From Class: ClassName=Sheet1 Member=J3
+Removed Member From Class: ClassName=Sheet1 Member=J6
+Removed Member From Class: ClassName=Sheet1 Member=S2
+Change Component Designator: OldDesignator=Clear Mem NewDesignator=PB3
+Change Component Designator: OldDesignator=Commission NewDesignator=PB2
+Change Component Designator: OldDesignator=HDC1080 NewDesignator=SJ4
+Change Component Designator: OldDesignator=ON/OFF NewDesignator=S4
+Added Component: Designator=U?(BHX12032PC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.memoryprotectiondevices.com/datasheets/BHX1-2032-PC-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.16mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MPD (Memory Protection Devices)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BHX1-2032-PC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_Switch Pin=S4-3
+Added Pin To Net: NetName=V_Switch Pin=S4-4
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=NetD1_2 Pin=U?-2
+Added Member To Class: ClassName=Sheet1 Member=Component U? BHX1-2032-PC
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3

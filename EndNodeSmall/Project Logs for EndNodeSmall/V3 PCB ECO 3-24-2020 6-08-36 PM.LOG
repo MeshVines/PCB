@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=V_Select Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=JTAG_TMSC Pin=J1-6
+Removed Pin From Net: NetName=JTAG_TCKC Pin=J1-8
+Removed Pin From Net: NetName=GND Pin=J1-9
+Removed Pin From Net: NetName=RESET_N Pin=J1-10
+Removed Pin From Net: NetName=V_Select Pin=S4-1
+Removed Pin From Net: NetName=V_Select Pin=S4-2
+Removed Pin From Net: NetName=V_Switch Pin=S4-3
+Removed Pin From Net: NetName=V_Switch Pin=S4-4
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=NetD1_2 Pin=U2-2
+Removed Member From Class: ClassName=Sheet2 Member=J1
+Removed Member From Class: ClassName=Sheet1 Member=S4
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Added Component: Designator=J?(FTS10503FDVTR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-xxx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FTSH-105-01-F-DV-K-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-FTSH10501FDVKTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=200-FTSH10501FDVKTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1802893P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1802893P"; VariantName = "[No Variations]"
+Added Component: Designator=S?(TL1014BF160QG)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.e-switch.com/system/asset/product_line/data_sheet/141/TL1014.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TL1014BF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "612-TL1014BF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=612-TL1014BF160QG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(BHX12032PC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.memoryprotectiondevices.com/datasheets/BHX1-2032-PC-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.16mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MPD (Memory Protection Devices)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BHX1-2032-PC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_Select Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=JTAG_TMSC Pin=J?-6
+Added Pin To Net: NetName=JTAG_TCKC Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=RESET_N Pin=J?-10
+Added Pin To Net: NetName=V_Select Pin=S?-1
+Added Pin To Net: NetName=V_Select Pin=S?-2
+Added Pin To Net: NetName=V_Switch Pin=S?-3
+Added Pin To Net: NetName=V_Switch Pin=S?-4
+Added Pin To Net: NetName=NetD1_2 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Member To Class: ClassName=Sheet2 Member=Component J? FTSH-105-01-F-DV-K-TR
+Added Member To Class: ClassName=Sheet1 Member=Component S? TL1014BF160QG
+Added Member To Class: ClassName=Sheet1 Member=Component U? BHX1-2032-PC
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
